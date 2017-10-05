@@ -1,4 +1,4 @@
-MySQL_ALL_IN_ONE_BACKUP script will take single database or all database backup. 
+"mysql_backup_tool" script will take single database or all database backup. 
 Backup will be a logical backup taken by mysqldump tool.
 
 This one is initial version of this script will add few options soon.
